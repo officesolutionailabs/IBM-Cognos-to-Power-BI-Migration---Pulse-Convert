@@ -7,7 +7,7 @@
 
 > **The enterprise GenAI-powered automation engine built for IBM Cognos to Power BI Migration — converting legacy Cognos Analytics reports, Framework Manager packages, and complex SQL data models into Power BI (.pbix) with 75% to 90% automated accuracy.**
 
-Developed by **Office Solution AI Labs**, **Pulse Convert** is the leading **Cognos to Power BI Migration tool**. It eliminates months of tedious manual redevelopment, expensive BI consulting overhead, and loss of business logic by converting IBM Cognos report specifications (`.xml`) and metadata models directly into native Microsoft Power BI and Microsoft Fabric architectures.
+**Pulse Convert** is the leading **Cognos to Power BI Migration tool** developed by **Office Solution AI Labs**, It eliminates months of tedious manual redevelopment, expensive BI consulting overhead, and loss of business logic by converting IBM Cognos report specifications (`.xml`) and metadata models directly into native Microsoft Power BI and Microsoft Fabric architectures.
 
 ---
 
@@ -44,7 +44,7 @@ Our automated workflow requires zero manual XML restructuring:
 ```
 
 1. **Export Cognos Report Specifications:** Extract Report Specifications (`.xml`) directly from IBM Cognos Analytics / Cognos Connection along with Framework Manager metadata.
-2. **AI Semantic Analysis & Conversion:** The proprietary "Pulse" AI engine parses Cognos XML, extracts Query Blocks, translates vendor-specific SQL/calculations to DAX, and reconstructs visual hierarchies.
+2. **AI Semantic Analysis & Conversion:** The proprietary "Pulse Convert" AI engine parses Cognos XML, extracts Query Blocks, translates vendor-specific SQL/calculations to DAX, and reconstructs visual hierarchies.
 3. **Deploy to Power BI:** Download fully functional Power BI (`.pbix`) files with **75% to 90% automated accuracy**, ready for Power BI Service or Microsoft Fabric deployment.
 
 ---
